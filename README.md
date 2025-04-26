@@ -42,7 +42,7 @@ This project implements a Tic Tac Toe (X-O) game on the LPC2138 ARM7 microcontro
 
 1. Open the `.pdsprj` or `.uvproj` file in your development environment.
 2. Set up the hardware according to the schematic.
-3. Compile and flash the code to the LPC2148 board.
+3. Compile and flash the code to the LPC2138 board.
 4. Interact with the buttons to play the game.
 
 ## Authors
