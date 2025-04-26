@@ -1,6 +1,6 @@
-# Tic Tac Toe on LPC2148 with 7-Segment Displays
+# Tic Tac Toe on LPC2138 with 7-Segment Displays
 
-This project implements a Tic Tac Toe (X-O) game on the LPC2148 ARM7 microcontroller, using 9 shift-register-controlled 7-segment displays and tactile buttons for player input.
+This project implements a Tic Tac Toe (X-O) game on the LPC2138 ARM7 microcontroller, using 9 shift-register-controlled 7-segment displays and tactile buttons for player input.
 
 ## Features
 
@@ -20,7 +20,7 @@ This project implements a Tic Tac Toe (X-O) game on the LPC2148 ARM7 microcontro
 
 ## Hardware Requirements
 
-- LPC2148 Development Board
+- LPC2138 Development Board
 - 9 x 7-Segment Displays
 - 9 x Shift Registers (e.g., 74HC595)
 - 10 x Push Buttons
