@@ -3,7 +3,7 @@
 This project implements a Tic Tac Toe (X-O) game on the LPC2138 ARM7 microcontroller, using 9 shift-register-controlled 7-segment displays and tactile buttons for player input.
 
 
-<img src="assets/Screenshot 2025-04-26 102247.png" alt="Demo" width="400"/>
+<img src="assets/Screenshot 2025-04-26 102247.png" alt="Demo" width="900"/>
 
 
 
