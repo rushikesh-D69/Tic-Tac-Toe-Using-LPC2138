@@ -53,6 +53,4 @@ This project implements a Tic Tac Toe (X-O) game on the LPC2138 ARM7 microcontro
 ## Authors
 
 - Rushikesh D. – ECE Department, ASEB
-- Chandan Sai Pavan – ECE Department, ASEB
-
-
+- Chandan Sai Pavan P – ECE Department, ASEB
